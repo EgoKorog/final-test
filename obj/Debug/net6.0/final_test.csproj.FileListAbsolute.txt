@@ -1,0 +1,15 @@
+C:\Donwload\Final\final_test\bin\Debug\net6.0\final_test.exe
+C:\Donwload\Final\final_test\bin\Debug\net6.0\final_test.deps.json
+C:\Donwload\Final\final_test\bin\Debug\net6.0\final_test.runtimeconfig.json
+C:\Donwload\Final\final_test\bin\Debug\net6.0\final_test.dll
+C:\Donwload\Final\final_test\bin\Debug\net6.0\final_test.pdb
+C:\Donwload\Final\final_test\obj\Debug\net6.0\final_test.csproj.AssemblyReference.cache
+C:\Donwload\Final\final_test\obj\Debug\net6.0\final_test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Donwload\Final\final_test\obj\Debug\net6.0\final_test.AssemblyInfoInputs.cache
+C:\Donwload\Final\final_test\obj\Debug\net6.0\final_test.AssemblyInfo.cs
+C:\Donwload\Final\final_test\obj\Debug\net6.0\final_test.csproj.CoreCompileInputs.cache
+C:\Donwload\Final\final_test\obj\Debug\net6.0\final_test.dll
+C:\Donwload\Final\final_test\obj\Debug\net6.0\refint\final_test.dll
+C:\Donwload\Final\final_test\obj\Debug\net6.0\final_test.pdb
+C:\Donwload\Final\final_test\obj\Debug\net6.0\final_test.genruntimeconfig.cache
+C:\Donwload\Final\final_test\obj\Debug\net6.0\ref\final_test.dll
